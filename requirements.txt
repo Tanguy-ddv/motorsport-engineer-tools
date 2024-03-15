@@ -1,0 +1,6 @@
+pygame
+pillow
+numpy
+ipykernel
+matplotlib
+gitchangelog
